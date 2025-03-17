@@ -12,7 +12,8 @@ This project focuses on processing and analyzing international football matches 
 - **Looker** - for data visualization and reporting
 - **Apache Airflow** - for workflow automation and orchestration
 
-## Dataset
+## Dataset [International Football Results (1872-2017) - Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data)
+
 The dataset contains three main CSV files:
 
 ### 1. `results.csv`
