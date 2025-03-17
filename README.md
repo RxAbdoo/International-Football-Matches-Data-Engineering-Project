@@ -70,7 +70,7 @@ gsutil ls gs://final_project_data_bucket/parquet_data/
 ## 📊 BigQuery Dataset
 The dataset has been successfully uploaded to Google BigQuery. You can explore it using the following link:
 
-🔗 [View BigQuery Dataset](https://console.cloud.google.com/bigquery?project=dataeng-440211&ws=!1m4!1m3!3m2!1sdataeng-440211!2sfootball_DS)
+🔗 [View BigQuery Dataset](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sdataeng-440211!2sfootball_DS)
 
 
 
