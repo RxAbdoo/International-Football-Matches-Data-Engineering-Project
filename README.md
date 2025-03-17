@@ -56,6 +56,5 @@ This file contains details of goals scored in international matches, including:
 6. **Data Visualization**: Create interactive dashboards using Looker.
 7. **Workflow Automation**: Orchestrate ETL processes with Apache Airflow.
 
-## Contribution
-Feel free to contribute by submitting a pull request if you find any issues or want to improve the project. Happy coding!
+
 
