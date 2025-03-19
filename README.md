@@ -3,6 +3,16 @@
 ## Overview
 This project focuses on processing and analyzing international football matches data using big data technologies. The dataset includes historical match results, shootout details, and goal scorers from 1872 to 2024.
 
+This project was implemented in two different ways:
+
+1. **Using Jupyter Notebook**: The implementation is available in the `notebooks/` folder.
+2. **Using Apache Airflow**: The workflow is defined in the `scripts/` and `dags/` folders.
+
+> 📝 **Note:** _This project was executed twice—once without Airflow using Jupyter Notebook in the `notebooks/` folder, and once with Airflow in the `scripts/` and `dags/` folders._  
+
+---
+
+
 ## Technologies Used
 - **Apache Spark** (Local Mode) - for distributed data processing
 - **Hadoop & HDFS** - for storage and data management
@@ -11,7 +21,6 @@ This project focuses on processing and analyzing international football matches 
 - **BigQuery** - for querying large datasets efficiently
 - **Looker** - for data visualization and reporting
 - **Apache Airflow** - for workflow automation and orchestration
-
 ## Dataset [International Football Results (1872-2017) - Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data)
 
 The dataset contains three main CSV files:
