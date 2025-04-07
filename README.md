@@ -1,6 +1,6 @@
 # International Football Matches Data Engineering Project
 
-![Alt text](projectdiagram.png)
+![Alt text](projectDiagram.png)
 
 ## Overview
 This project focuses on processing and analyzing international football matches data using big data technologies. The dataset includes historical match results, shootout details, and goal scorers from 1872 to 2024.
