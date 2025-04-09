@@ -1,7 +1,7 @@
 # International Football Matches Data Engineering Project
 
 ![Alt text](projectDiagram.png)
-
+![Alt text](StarSchemaDiagram.drawio.png)
 ![Alt text](airflow_dag.PNG)
 
 ## Overview
